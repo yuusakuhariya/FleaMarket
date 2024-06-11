@@ -1,0 +1,81 @@
+.header {
+    background-color: black;
+}
+
+.header-inner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo-inner {
+    padding: 15px 20px;
+}
+
+.goods-search {
+    margin: auto 0;
+    width: 40%;
+}
+
+.goods-search_input {
+    width: 100%;
+    height: 35px;
+    font-size: 100%;
+    padding-left: 20px;
+}
+
+
+.logout-message {
+    margin: auto 0;
+}
+
+.logout-button {
+    background-color: black;
+    border: none;
+    color: white;
+    font-size: 18px;
+}
+
+.myPage-message {
+    margin: auto 0;
+}
+
+.myPage-message_inner {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+
+.login-message {
+    margin: auto 0;
+}
+
+.login-message_inner {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+.register-message {
+    margin: auto 0;
+}
+
+.register-message_inner {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+.listing-message {
+    margin: auto 0;
+}
+
+.listing-message_inner {
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    border-radius: 3px;
+    padding: 3px 10px;
+    margin-right: 20px;
+}
