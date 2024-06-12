@@ -8,6 +8,6 @@ class IndexController extends Controller
 {
     public function index()
     {
-        return view('header/header_all');
+        return view('auth/register');
     }
 }
