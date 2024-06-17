@@ -1,0 +1,95 @@
+.buy_container {
+    display: flex;
+    margin: 50px 50px;
+}
+
+.left-buy_container {
+    width: 60%;
+    padding: 0 70px;
+}
+
+.goods-container {
+    display: flex;
+    margin: 30px 30px;
+}
+
+.goods-img {
+    height: 150px;
+    width: 150px;
+    margin-right: 50px;
+}
+
+.payment-method {
+    display: flex;
+    justify-content: space-between;
+}
+.payment-method_change {
+    margin: 0;
+}
+.change-button {
+    text-decoration: none;
+    color: rgb(0, 88, 252);
+}
+
+.delivery-strategy {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 200px;
+}
+.delivery-strategy_change {
+    margin: 0;
+}
+
+
+.right-buy_container {
+    width: 40%;
+    padding-left: 100px;
+}
+
+.price-content {
+    border: solid 1px gray;
+}
+
+.price-content_goods {
+    display: flex;
+    justify-content: flex-start;
+}
+.price-content_goods-title {
+    margin: 50px 220px 70px 30px;
+}
+.price-content_goods-price {
+    margin-top: 50px;
+}
+
+.pay-content_goods{
+    display: flex;
+    justify-content: flex-start;
+}
+.pay-content_goods-title {
+    margin: 50px 220px 50px 30px;
+}
+.pay-content_goods-price {
+    margin-top: 50px;
+}
+
+.payment-content_goods {
+    display: flex;
+    justify-content: flex-start;
+}
+.payment-content_goods-title {
+    margin: 0px 190px 50px 30px;
+}
+
+.buy-button {
+    margin-top: 70px;
+}
+.buy-button_inner {
+    padding: 8px;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    background-color: #ff5b5b;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}

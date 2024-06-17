@@ -27,7 +27,6 @@
             <!-- @でログインチェックを入れる -->
             <div class="logout-message">
                 <form class="logout-form" action="/logout" method="post">
-                    <!-- action="/logout"　を入れる -->
                     @csrf
                     <button class="logout-button">ログアウト</button>
                 </form>
