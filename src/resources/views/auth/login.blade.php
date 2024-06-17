@@ -18,7 +18,7 @@
                     </div>
                     <div class="login-form_content">
                         <div class="content_password">パスワード</div>
-                        <input class="input_email" type="text" name="password" value="{{ old('password') }}">
+                        <input class="input_password" type="text" name="password" value="{{ old('password') }}">
                     </div>
                 </div>
                 <div class="content_button">

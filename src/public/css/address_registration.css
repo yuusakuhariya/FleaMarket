@@ -25,24 +25,36 @@
     margin-bottom: 60px;
 }
 
-.content_email {
+.content_post-code {
     font-size: 18px;
     font-weight: bold;
 }
 
-.input_email {
+.input_post-code {
     width: 100%;
     height: 45px;
     border: 1px solid #767676;
     border-radius: 3px;
 }
 
-.content_password {
+.content_address {
     font-size: 18px;
     font-weight: bold;
 }
 
-.input_password {
+.input_address {
+    width: 100%;
+    height: 45px;
+    border: 1px solid #767676;
+    border-radius: 3px;
+}
+
+.content_building-name {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.input_building-name {
     width: 100%;
     height: 45px;
     border: 1px solid #767676;
@@ -62,10 +74,4 @@
     color: white;
     font-size: 18px;
     font-weight: bold;
-}
-
-
-.register-button_inner {
-    text-decoration: none;
-    color: #008aff;
 }

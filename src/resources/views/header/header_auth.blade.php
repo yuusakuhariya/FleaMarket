@@ -15,7 +15,7 @@
 
     <header class="header">
         <div class="header-inner">
-            <a class="logo" href="">
+            <a class="logo" href="url()->previous()">
                 <img class="logo-inner" src="/image/logo.svg" alt="">
             </a>
         </div>
