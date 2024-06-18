@@ -8,17 +8,58 @@
     font-weight: bold;
 }
 
-.container-address {
-    margin: 80px 0 20px;
+
+.profile-content {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
 }
 
-.address-form {
+.profile-img {
+    border: 1px solid #767676;
+    border-radius: 100%;
+    width: 130px;
+    height: 130px;
+}
+
+.profile-edit {
+    align-content: center;
+    margin-left: 50px;
+}
+
+.profile-edit_button {
+    border: 1px solid red;
+    border-radius: 3px;
+    padding: 5px 30px;
+    text-decoration: none;
+    color: red;
+}
+
+.container-profile {
+    margin: 40px 0 20px;
+}
+
+.profile-form {
     width: 30%;
     margin: 0 auto;
 }
 
-.address-form_inner {
+.profile-form_inner {
     text-align: left;
+}
+
+.user-name-form_content {
+    margin-bottom: 60px;
+}
+.content_user-name {
+    font-size: 18px;
+    font-weight: bold;
+}
+.input_user-name {
+    width: 100%;
+    height: 60px;
+    border: 1px solid #767676;
+    border-radius: 3px;
 }
 
 .address-form_content {
@@ -75,6 +116,7 @@
     font-size: 18px;
     font-weight: bold;
 }
+
 
 
 button {

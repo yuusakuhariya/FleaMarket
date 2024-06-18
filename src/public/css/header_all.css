@@ -79,3 +79,11 @@
     padding: 3px 10px;
     margin-right: 20px;
 }
+
+
+
+button {
+    border-color: transparent;
+    background: transparent;
+    cursor: pointer;
+}

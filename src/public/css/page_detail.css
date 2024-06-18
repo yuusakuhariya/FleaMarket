@@ -43,6 +43,11 @@
 .goods-buy {
     margin: 25px 0px;
     width: 100%;
+    border: 1px solid #ff5b5b;
+    border-radius: 3px;
+    background-color: #ff5b5b;
+    padding: 10px 10px;
+    text-align: center;
 }
 
 .goods-buy_button {
@@ -53,7 +58,6 @@
     font-size: 16px;
     font-weight: bold;
     color: white;
-    padding: 4px 150px;
 }
 
 .goods-description_content {
@@ -107,4 +111,12 @@
 
 .condition-name {
     margin-left: 50px;
+}
+
+
+
+button {
+    border-color: transparent;
+    background: transparent;
+    cursor: pointer;
 }

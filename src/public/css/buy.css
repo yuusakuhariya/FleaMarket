@@ -93,3 +93,10 @@
     font-weight: bold;
     color: white;
 }
+
+
+button {
+    border-color: transparent;
+    background: transparent;
+    cursor: pointer;
+}

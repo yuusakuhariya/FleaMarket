@@ -1,7 +1,7 @@
 @extends('header.header_all')
 
 @section('css')
-<link rel="stylesheet" href="{{ asset('/css/page_buy.css') }}" />
+<link rel="stylesheet" href="{{ asset('/css/buy.css') }}" />
 @endsection
 
 @section('content')

@@ -69,3 +69,11 @@
     text-decoration: none;
     color: #008aff;
 }
+
+
+
+button {
+    border-color: transparent;
+    background: transparent;
+    cursor: pointer;
+}
